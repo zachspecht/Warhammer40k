@@ -50,9 +50,9 @@
      <Compile Include="Assets\Scripts\Skills.cs" />
      <Compile Include="Assets\Scripts\Starship Combat.cs" />
      <Compile Include="Assets\Scripts\Starship.cs" />
+     <Compile Include="Assets\Scripts\StarshipMovement.cs" />
      <Compile Include="Assets\Scripts\Talents.cs" />
      <Compile Include="Assets\Scripts\Weapons.cs" />
-     <None Include="Assets\Free Guns Pack\READ_ME.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
